@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/citaty/static/css/main.1124c6e8.css",
+    "main.js": "/citaty/static/js/main.32d2c517.js",
+    "index.html": "/citaty/index.html",
+    "main.1124c6e8.css.map": "/citaty/static/css/main.1124c6e8.css.map",
+    "main.32d2c517.js.map": "/citaty/static/js/main.32d2c517.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1124c6e8.css",
+    "static/js/main.32d2c517.js"
+  ]
+}
